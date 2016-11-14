@@ -3,10 +3,9 @@
 NOTE: This package is being deprecated
 ======================================
 
-You should use [fake-factory](https://pypi.python.org/pypi/fake-factory)
-instead. After Sept 15, 2016 the PyPi `faker` package will point to new
-[faker](https://github.com/joke2k/faker).
-
+As of Sept 15, 2016, the PyPi `faker` packages points to the new
+[faker](https://github.com/joke2k/faker) which you should use
+instead. 
 
 
         .....                            ..
